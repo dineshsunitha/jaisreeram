@@ -1,4 +1,9 @@
 hloo 1
 hloo 2
+<<<<<<< Updated upstream
 hloo 3
 hloo 4
+=======
+hloo 5
+hloo 6
+>>>>>>> Stashed changes
